@@ -9,7 +9,7 @@ set showcmd
 set wildmenu
 
 set hlsearch
-" set "nohlsearch"
+exec "nohlsearch"
 set incsearch
 set ignorecase
 set smartcase
